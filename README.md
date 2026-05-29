@@ -1,6 +1,5 @@
 # Visual Analytics of Diabetes Risk Using General Line Coordinates
 
-**MSBD 570 Final Project – James Walton**
 
 ---
 
